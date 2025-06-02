@@ -19,6 +19,9 @@ Filter by All, Pending, or Completed
 Clear completed tasks easily
 Responsive and modern glassmorphism UI
 Uses a beautiful Unsplash background
+
+
+
 ![image](https://github.com/user-attachments/assets/a9c57a5f-d1f0-439f-83f2-03bd037aade9)
 ![image](https://github.com/user-attachments/assets/45024dc6-e821-41f9-977c-6eb6d3e23f16)
 ![image](https://github.com/user-attachments/assets/26f6e5a6-ae75-4070-abda-db388a85810a)
